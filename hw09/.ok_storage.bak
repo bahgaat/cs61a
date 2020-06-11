@@ -1,0 +1,5 @@
+'multiples_3-correct', (0, 70)
+'replicate-correct', (512, 70)
+'accumulate-correct', (1024, 70)
+'accumulate-tail-correct', (1536, 70)
+'nondecreastream-correct', (2048, 70)
