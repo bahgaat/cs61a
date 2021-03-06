@@ -19,4 +19,6 @@ For example, the following command visualizes all sandwich restaurants and their
 
 python3 recommend.py -u likes_expensive -k 2 -p -q Sandwiches
 
+For more information: https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/maps/
+
 
