@@ -26,3 +26,5 @@ To spice up the game, there will be some special rules:
         which is 3 times 37, so the scores are swapped. The opponent ends the turn with 111 and wins the game.
         
 To play, simply use the following command: python3 hog.py
+
+For more information: https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/hog/
