@@ -28,3 +28,5 @@ There are many options to configure:
 usage:
 
 python3 ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
+
+For more information: https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/ants/
