@@ -6,11 +6,11 @@ This is a tower defense defense game called Ants Vs. SomeBees. As the ant queen,
 
 This project combines functional and object-oriented programming paradigms, focusing on the material from Chapter 2.5 of Composing Programs. The project also involves understanding, extending, and testing a large program.
 
-To play a text-based game, use:
+To play a text-based game, run:
 
 python3 ants.py
 
-To play a graphical game, use:
+To play a graphical game, run:
 
 python3 gui.py
 
