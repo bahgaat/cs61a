@@ -4,7 +4,7 @@ My first project for CS61A. A strategic dice game for two players with a few int
 Rules:
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes.
 
-To spice up the game, we will play with some special rules:
+To spice up the game, there will be some special rules:
 
    Pig Out. If any of the dice outcomes is a 1, the current player's score for the turn is 1.
         Example 1: The current player rolls 7 dice, 5 of which are 1's. They score 1 point for the turn.
