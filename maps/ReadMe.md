@@ -13,3 +13,10 @@ In the map above, each dot represents a restaurant. The color of the dot is dete
 
 This project uses concepts from Sections [2.1](http://composingprograms.com/pages/21-introduction.html), [2.2](http://composingprograms.com/pages/22-data-abstraction.html), [2.3](http://composingprograms.com/pages/23-sequences.html), and [2.4.3](http://composingprograms.com/pages/24-mutable-data.html#dictionaries) of [Composing Programs](http://composingprograms.com). It also introduces techniques and concepts from machine learning, a growing field at the intersection of computer science and statistics that analyzes data to find patterns and make predictions.
 
+# How to launch the GUI
+
+For example, the following command visualizes all sandwich restaurants and their predicted ratings for the user who likes_expensive restaurants that has sandwiches with 2-means clustering :
+
+python3 recommend.py -u likes_expensive -k 2 -p -q Sandwiches
+
+
