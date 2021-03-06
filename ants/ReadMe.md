@@ -1,4 +1,4 @@
-# ants
+# Ants Vs. SomeBees
 
 # CS61A - project 3 
 
