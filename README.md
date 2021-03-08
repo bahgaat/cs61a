@@ -1,4 +1,4 @@
-# cs61a (The Structure and Interpretation of Computer Programs) From University of Berkeley.
+# CS61A (The Structure and Interpretation of Computer Programs) From University of Berkeley.
 
 This is my repository for CS61A course from university of berkeley. I have completed all the labs, homeworks, discussions, projects, and exams.
 
