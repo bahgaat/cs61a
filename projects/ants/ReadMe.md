@@ -7,8 +7,7 @@ This is a tower defense defense game called Ants Vs. SomeBees. As the ant queen,
 This project combines functional and object-oriented programming paradigms, focusing on the material from Chapter 2.5 of Composing Programs. The project also involves understanding, extending, and testing a large program.
 
 Rules of the game:
-
-A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bees may enter the ant colony. Then, new ants are placed. Finally, all insects (ants, then bees) take individual actions. Bees either try to move toward the end of the tunnel or they sting ants in their way. Ants perform a different action depending on their type, such as throwing leaves at the bees. The game ends either when a bee reaches the ant queen (you lose), or the entire bee flotilla has been vanquished (you win).
+- A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bees may enter the ant colony. Then, new ants are placed. Finally, all insects (ants, then bees) take individual actions. Bees either try to move toward the end of the tunnel or they sting ants in their way. Ants perform a different action depending on their type, such as throwing leaves at the bees. The game ends either when a bee reaches the ant queen (you lose), or the entire bee flotilla has been vanquished (you win).
 
 To play a text-based game, run:
 
